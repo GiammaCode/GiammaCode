@@ -8,7 +8,7 @@
 
 ## 🏆 My GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=GiammaCode&theme=algolia&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -20,6 +20,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiammaCode&show_icons=true&theme=tokyonight&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiammaCode&layout=compact&theme=tokyonight)
 
