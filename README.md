@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey there!
 
-<!--
-**GiammaCode/GiammaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a master's student in **Computer Engineering and Computer Science** at the University of Bologna.
 
-Here are some ideas to get you started:
+💻 I love learning new technologies, building open-source projects, and improving every single day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 My GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🔥 Just a programmer doing his thing
+
+![GIF](https://media.giphy.com/media/Npdl9kOaKFJHuRCBGx/giphy.gif)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
