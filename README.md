@@ -14,7 +14,7 @@
 
 ## 🔥 Just a programmer doing his thing
 
-![GIF](https://media.giphy.com/media/Npdl9kOaKFJHuRCBGx/giphy.gif)
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnA5Mm5tdW80emVubHNoYWU3aGRjeTY3bDFtcjJjN3J0N3R3dWM3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif)
 
 ---
 
