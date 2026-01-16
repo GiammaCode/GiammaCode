@@ -22,26 +22,12 @@
 
 <br/>
 
-<div align="center">
-  <table border="0" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" style="border: none; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=GiammaCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GiammaCode Stats" />
-      </td>
-      <td align="center" style="border: none; padding-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiammaCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="170" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <br/>
 
 <h3>⚡ System Status: <span style="color: #2DD4BF;">Online</span></h3>
 
 - 🎓 **Current Status:** Master's Student in **Computer Engineering & CS** at **Unibo**.
-- 🔭 **Focus:** Full Stack Development, AI & DevOps.
-- 🎮 **Side Quest:** Building games with **Unity & Unreal Engine**.
+- 🔭 **Focus:** Full Stack Development, AI.
 - 🧠 **Learning:** Cloud Native architectures & Deep Learning.
 
 <br/>
