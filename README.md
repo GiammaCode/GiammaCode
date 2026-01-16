@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+GiammaCode;Master's+Student+%40+Unibo;Building+Software+%26+AI;Game+Dev+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+GiammaCode;Master's+Student+%40+Unibo;Building+Software+%26+AI;Game+Dev+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -24,12 +24,12 @@
 
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=GiammaCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF" alt="GiammaCode Stats" />
+    <tr>
+      <td align="center" style="border: none; padding-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=GiammaCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GiammaCode Stats" />
       </td>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiammaCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&langs_count=8" alt="Top Languages" />
+      <td align="center" style="border: none; padding-left: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiammaCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="170" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -64,7 +64,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://github.com/GiammaCode/GiammaCode/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+  <img src="https://github.com/GiammaCode/GiammaCode/raw/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 </div>
 
 <br/>
